@@ -1,11 +1,9 @@
 1. copy 1 du an ve tai thu muc hien tai
 - git clone https://github.com/dunghoang74/test1
-2.Add 1 file moi tao len
+2.Add 1 file (folder )moi tao len
 - git add filename.extension
 -git status (de xem log)
 -git commit filename.extension -m "message" (dua len reposotory local)
 -git push (dua file o repo local len repo server)
 
 -git pull (update thay doi ren server ve local)
-
-tac gia : hoang minh dung
