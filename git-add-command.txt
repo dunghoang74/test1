@@ -1,0 +1,7 @@
+1. copy 1 du an ve tai thu muc hien tai
+- git clone https://github.com/dunghoang74/test1
+2.Add 1 file moi tao len
+- git add filename.extension
+-git status (de xem log)
+-git commit -m "message" (dua len reposotory local)
+-
