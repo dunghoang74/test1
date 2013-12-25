@@ -4,4 +4,4 @@
 - git add filename.extension
 -git status (de xem log)
 -git commit -m "message" (dua len reposotory local)
--
+-git pull (update thay doi ren server ve local)
