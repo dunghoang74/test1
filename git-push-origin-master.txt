@@ -1,0 +1,3 @@
+That command will commit all files to the repo.
+
+git push origin master
