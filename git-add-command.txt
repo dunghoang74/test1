@@ -7,3 +7,5 @@
 -git push (dua file o repo local len repo server)
 
 -git pull (update thay doi ren server ve local)
+
+tac gia : hoang minh dung
